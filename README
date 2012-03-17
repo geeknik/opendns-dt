@@ -1,0 +1,15 @@
+OpenDNS Domain Tagging Extension for Chrome v0.1
+
+Installation Instructions
+1. Download the zipped OpenDNS Domain Tagging extension from http://www.geeknik.com/opendns-dt/opendns-dt-v0.1.zip.
+2. Unzip downloaded file.
+3. Go to extensions settings <- right click and open this link in new tab.
+4. Tick "Developer mode" (top right).
+5. Click "Load unpacked extension..." and select unzipped folder.
+6. Profit! Your new extension is loaded (White O w/ OpenDNS Orange background).
+
+7.(Requested) If you modify this in anyway, I request attribution. Thanks!
+8.(Optional) Follow us on Twitter: @opendns & @geeknik
+
+** Please note that I do work for OpenDNS, this extension is not officially
+supported or endorsed by OpenDNS at this time. **
